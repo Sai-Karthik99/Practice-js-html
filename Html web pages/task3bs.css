@@ -1,0 +1,7 @@
+input[text="text"], textarea{
+    background-color: rgb(112, 144, 117);
+
+} 
+input:invalid {
+    background-color:slategrey;
+}

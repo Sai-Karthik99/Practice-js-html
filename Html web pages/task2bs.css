@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    color: black;
+    background-color: white;
+  }
+  
+  .split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+    background-color:rgb(84, 214, 221);
+  }
+  
+  .right {
+    right: 0;
+    
+    
+    
+  }
+  h1{
+      color:blck;
+      font-size: 30px;
+      font-family: 'Times New Roman', Times, serif;
+  }
